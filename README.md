@@ -1,2 +1,30 @@
 # React-vue-devtools
 React/vue等开发者工具及插件分享，含如何安装开发者工具
+
+​
+发现一个好用的网站，只做分享，在此处你可以下载React/vue开发者工具及一些热门插件。
+
+  网站地址：收藏猫插件-Chrome插件商店,谷歌浏览器插件,谷歌应用商店插件推荐及下载
+
+  (不涉及翻墙)
+
+ 1. 针对下载React/vue开发者工具，你可以点击【下载插件手动安装】
+![image](https://img-blog.csdnimg.cn/6ea86d72a761484abc53fbf0d4a0ae97.png)
+ 
+
+
+ 2.打开扩展程序
+![image](https://img-blog.csdnimg.cn/c4485526d63341d5b7474ea72bc5df61.png)
+ 
+
+3.将下载好的文件拖拽到扩展程序中，记得打开 扩展程序右上角的开发者模式
+![image](https://img-blog.csdnimg.cn/60640cb72d304c00b3d122d129e7f687.png)
+
+
+4.点击添加扩展程序，页面显示出开发者工具，即为成功
+![image](https://img-blog.csdnimg.cn/fd70c640f066427691d11a955505076e.png)
+![image](https://img-blog.csdnimg.cn/4c0f1022f373420f9028ade012696ba3.png)
+ 
+
+
+​

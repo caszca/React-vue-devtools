@@ -27,6 +27,8 @@
 
 4.点击添加扩展程序，页面显示出开发者工具，即为成功
 ![image](https://img-blog.csdnimg.cn/fd70c640f066427691d11a955505076e.png)
+
+
 ![image](https://img-blog.csdnimg.cn/4c0f1022f373420f9028ade012696ba3.png)
  
 

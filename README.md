@@ -5,6 +5,8 @@
   发现一个好用的网站，只做分享，在此处你可以下载React/vue开发者工具及一些热门插件。
 
   网站地址：https://chrome.pictureknow.com/
+  如何安装开发者工具：https://blog.csdn.net/m0_59507959/article/details/127079806?spm=1001.2014.3001.5501
+
 
   (不涉及翻墙)
 
